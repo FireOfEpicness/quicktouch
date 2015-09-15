@@ -1,2 +1,2 @@
 # quicktouch
-It is an awesome unity phone game.
+It is a simple unity phone game.
